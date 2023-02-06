@@ -1,2 +1,3 @@
 "use strict";
-console.log("test");
+const btn = document.getElementById("btn");
+console.log(btn);
